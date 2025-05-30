@@ -38,7 +38,7 @@ Prerequisites
 Installation
 
 Clone the repository
-clone <repository-url>
+clone https://github.com/f1erfly94/react-dashboard
 cd dashboard-prototype
 
 Install dependencies
